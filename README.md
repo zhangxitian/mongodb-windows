@@ -16,13 +16,13 @@
    ```
 7、创建配置和MongoDB服务<br/>
   ```
-   mongod --config "E:\mongodb\mongodb.config" --install --serviceName "MongoDB"
+  mongod --config "E:\mongodb\mongodb.config" --install --serviceName "MongoDB"
   ```
 8、启动服务
   ```
   net start MongoDB
   ```
 9、停止服务
-   ```
-   net stop MongoDB
-   ```
+  ```
+  net stop MongoDB
+  ```
